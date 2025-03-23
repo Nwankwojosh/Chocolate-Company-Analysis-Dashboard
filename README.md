@@ -1,7 +1,6 @@
 # Chocolate-Company-Analysis-Dashboard
 Here are some insights based on the Chocolate Company Analysis Dashboard:
 <img width="960" alt="Chocolate Analysis 13-03-2025 3_17_2025 1_35_35 PM" src="https://github.com/user-attachments/assets/9bf11bf4-e372-42b6-b6d7-fa57e2689781" />
-
 1. **Revenue Performance**:
    - The total revenue generated is **4.69M**.
    - The cost incurred is **2M**, which indicates a significant profit margin.
